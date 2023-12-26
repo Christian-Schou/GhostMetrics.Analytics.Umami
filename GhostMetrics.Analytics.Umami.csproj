@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>GhostMetrics.Analytics.Umami</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Christian Schou</Authors>
+        <Company>Tech with Christian</Company>
+        <PackageTags>Analytics,Umami,Api</PackageTags>
+        <Description>This package will provide an easy way for interacting with the Umami Analytics API, to retrieve data about websites.</Description>
+    </PropertyGroup>
+
+</Project>
