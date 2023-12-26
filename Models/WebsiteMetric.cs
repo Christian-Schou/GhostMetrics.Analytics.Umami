@@ -1,4 +1,4 @@
-namespace GhostMetrics.Analytics.Umami.Models;
+namespace UmamiNet.Models;
 
 public class WebsiteMetric
 {

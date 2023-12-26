@@ -4,7 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <PackageId>GhostMetrics.Analytics.Umami</PackageId>
+        <PackageId>UmamiNet</PackageId>
         <Version>1.0.0</Version>
         <Authors>Christian Schou</Authors>
         <Company>Tech with Christian</Company>
